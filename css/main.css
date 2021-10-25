@@ -5,3 +5,7 @@
 img {
     max-width: 100%;
 }
+
+a _{
+    text-decoration: none;
+}
